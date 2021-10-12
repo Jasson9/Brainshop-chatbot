@@ -1,0 +1,14 @@
+{
+  "name": "brainshop-chatbot",
+  "version": "1.0.0",
+  "description": "Simple javascript module to send message to your Brainshop.ai Chatbot and get respond from it",
+  "main": "index.js",
+  "scripts": {
+    "start": "node example/example.js"
+  },
+  "author": "Jasson9",
+  "license": "ISC",
+  "dependencies": {
+    "fetch": "^1.1.0"
+  }
+}
