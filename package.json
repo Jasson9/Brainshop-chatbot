@@ -1,11 +1,11 @@
 {
-  "name": "@jasson9/brainshop-chatbot",
+  "name": "@Jasson9/brainshop-chatbot",
   "version": "1.0.0",
   "description": "Simple javascript module to send message to your Brainshop.ai Chatbot and get respond from it",
   "main": "index.js",
   "scripts": {
     "start": "node example/example.js",
-    "test" : "npm start"
+    "test" : "exit 0"
   },
   "author": "Jasson9",
   "license": "ISC",
