@@ -1,7 +1,7 @@
 # Brainshop-Chatbot
  Simple javascript module to send message to your Brainshop.ai Chatbot and get response from it
 
-## Instal
+## Install
 ```
     npm i brainshop-chatbot
 ```
